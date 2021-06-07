@@ -6,7 +6,7 @@ fever, runny nose, cough, body pain, age, difficulty in breathing.
 These features allows to find probability using machine learning logistic regression model 
 and train this model using fit function.
 ```
-#Objective
+# Objective
 ```
 The main objective of this project is to build the model which will be able to predict
 the probability of infection. 
