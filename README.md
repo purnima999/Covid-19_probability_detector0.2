@@ -15,5 +15,5 @@ To fulfill the objective I’m doing following mythology-:
 2.Data can be collected on symptoms of COVID-19.
 3.A machine learning model then is then trained on the data to find out the probability of a person 
 having the infection.
-4.The model is then used to find out whom to find potential candidate to conducting random test.
+4.The model is then used to find out whom to find potential candidate to conducting random test..
 ```
